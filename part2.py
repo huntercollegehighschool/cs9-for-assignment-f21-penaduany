@@ -19,3 +19,4 @@ h = int(input("Enter the height: "))
  
 for x in range(h):
  print("*" * b)
+
